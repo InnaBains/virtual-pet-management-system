@@ -221,17 +221,13 @@ The project demonstrates practical implementation of:
 
 ---
 
-## 👩‍💻 Author
+# 📫 Contact
 
-**Inna Bains**
-
-BSc (Hons) Computing Graduate
-
-GitHub:
-https://github.com/InnaBains
-
-LinkedIn:
-https://www.linkedin.com/in/inna-bains-0aa890264
+* **Author:** Inna Bains  
+* **Degree:** BSc (Hons) Computing, Arden University (2026)  
+* **Email:** [innessyk@gmail.com](mailto:innessyk@gmail.com) 
+* **GitHub:** https://github.com/InnaBains
+* **LinkedIn:** https://www.linkedin.com/in/inna-bains-0aa890264
 
 ---
 
